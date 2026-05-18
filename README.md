@@ -32,6 +32,7 @@ The framework addresses the processing of high volume smart meters data to forec
 
 ---
 
+## Conclusion of the work
 
-* **The Metrics Section:** Accuracy of machine learning models surpassed 96 % for R2 metric with low comptational power. Also, a flowchart is proposed to utilize load forecasting results for demand response programs enabling integrating renewables for sustainable and efficient operation of smart grid.
+Accuracy of machine learning models surpassed 96 % for R2 metric with low comptational power. Also, a flowchart is proposed to utilize load forecasting results for demand response programs enabling integrating renewables for sustainable and efficient operation of smart grid.
 
